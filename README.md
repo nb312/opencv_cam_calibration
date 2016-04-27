@@ -35,3 +35,7 @@ Install and Use
 9) If your camera is working you will get an image stream indicating "press g to start"
 
 10) When done, exit the calibration routine and you will find a calibration xml file next to the executable
+
+直接导入visual studio
+=============
+将src下.cpp导入visual studio中，配置好opencv环境，然后生成.exe文件，通过命令就可以使用了
