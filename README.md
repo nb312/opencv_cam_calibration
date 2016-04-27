@@ -39,3 +39,10 @@ Install and Use--linux比较方便
 直接导入visual studio
 =============
 将src下.cpp导入visual studio中，配置好opencv环境，然后生成.exe文件，通过命令就可以使用了
+
+1) 将default.xml 拷贝到当前文件，里面有相关配置可以去看看
+
+2)并见棋盘格视频拷贝到当前文件，并修改为default.xml里面的文件
+
+3) 直接点击执行.exe,然后会生成一个.xml文件
+
