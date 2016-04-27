@@ -12,7 +12,7 @@ Basically, you just need to print out the chess_pattern.png (images),
 edit the camera_conf.xml (data) according to your needs, build the 
 software and execute it. There you go... 
 
-Install and Use
+Install and Use--linux比较方便
 ================
 
 1) mkdir build
